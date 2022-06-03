@@ -592,7 +592,7 @@ def action():
 
             elif 'www.facebook.com' in q['error_msg']:
 
-                print '\x1b[1;96m[Cp-Tutul-CHECKPOINT] \x1b[1;97m' + k + c + user + ' | ' + pass1 + '\x1b[1;96m  [Login After 10 Days]\n'
+                print '\x1b[1;96m[Cp-Fahim-CHECKPOINT] \x1b[1;97m' + k + c + user + ' | ' + pass1 + '\x1b[1;96m  [Login After 10 Days]\n'
 
                 cps = open('save/checkpoint.txt', 'a')
 
